@@ -65,7 +65,14 @@ client.distube = new DisTube(client, {
     updateYouTubeDL: true,
     customFilters: filters,
     plugins: [
-        new SpotifyPlugin(),
+        new SpotifyPlugin({
+          parallel: true,
+          emitEventsAfterFetching: true,
+          api: {
+            clientId: process.env.spotify_clientID || config.env.spotify_clientID,
+            clientSecret: process.env.spotify_clientSecret || config.env.spotify_clientSecret,
+          },
+        }),
         new SoundCloudPlugin()
     ]
 });
