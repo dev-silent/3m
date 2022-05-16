@@ -1,6 +1,6 @@
 # Milanio
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://dsc.gg/milanio.dev)
+## [**DISCORD SUPPORT SERVER INVITE**](https://dsc.gg/milanio)
 > 💪 **Host on Repit:** [**Repl.it Fork**](https://replit.com/@Zedro2742/Milanio)
 
 ## Installation | How to use the Handler
@@ -29,8 +29,8 @@
   
 ***
 
-## [Discord Server 😎](https://dsc.gg/milanio.dev) | [Website](https://milaniodev.ml)
-<a href="https://dsc.gg/milanio.dev"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
+## [Discord Server 😎](https://dsc.gg/milanio) | [Website](https://milaniodev.ml)
+<a href="https://dsc.gg/milanio><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
 
 ***
 
