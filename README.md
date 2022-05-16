@@ -30,7 +30,7 @@
 ***
 
 ## [Discord Server 😎](https://dsc.gg/milanio) | [Website](https://milaniodev.ml)
-<a href="https://dsc.gg/milanio><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
+<a href="https://dsc.gg/milanio"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
 
 ***
 
